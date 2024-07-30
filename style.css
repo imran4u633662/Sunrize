@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(230, 227, 227);
+}
+.text-part{
+    width: 50rem;
+    height: 300px;
+    color: black;
+    padding: 85px 0;
+}
+.filter{
+    padding: 30px;
+}
+.gallery{
+    padding: 5px;
+}
+.img1{
+    width: 23%;
+}
+.img2{
+    width: 19%;
+}
+.img3{
+    width: 25%;
+}
+.img4{
+    width: 27%;
+}
+
+
+.img5{
+    width: 25%;
+}
+.img6{
+    width: 23%;
+}
+.img7{
+    width: 26%;
+}
+.img8{
+    width: 30%;
+}
+
+
+.img9{
+    width: 23%;
+}
+.img10{
+    width: 21%;
+}
+.img11{
+    width: 21%;
+}
+.img12{
+    width: 10%;
+}
+
+.img13{
+    width: 18%;
+}
+.img14{
+    width: 23%;
+}
+.img15{
+    width: 18%;
+}
+.img16{
+    width: 23%;
+}
+
+.img17{
+    width: 18%;
+}
+.img18{
+    width: 23%;
+}
+.img19{
+    width: 35%;
+}
+.img20{
+    width: 27%;
+}
+
+.container-fluid{
+    
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.spinner{
+    padding: 45px 0 95px;
+}
+.footer-part{
+    background-color: black;
+    padding: 25px 40px 15px;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+    color: white;
+}
+.web{
+    color: white;
+    
+}
